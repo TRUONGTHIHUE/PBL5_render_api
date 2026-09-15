@@ -1,8 +1,8 @@
 import requests
 
 
-# Thay TEN-DICH-VU bang URL Render sau khi deploy.
-API_URL = "https://TEN-DICH-VU.onrender.com/product.php"
+# API PHP da deploy tren Render.
+API_URL = "https://pbl5-render-api.onrender.com/product.php"
 
 params = {
     "id": "STORE001",
